@@ -31,3 +31,11 @@ Dr. Tathagata Das, B.A.M.S. (Hons.) (Kol).
 ## 👨‍💻 Developed By
 
 Pragnadeep Nazir
+
+## 💼 Project Type
+
+Client Project
+
+A professional website developed for Dr. Tathagata Das
+for showcasing his Ayurvedic medical practice, consultation
+locations, specializations, and appointment booking.
